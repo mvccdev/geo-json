@@ -1,0 +1,30 @@
+[
+    {
+        "continent": "Africa",
+        "abbreviation": "AF"
+    },
+	{
+        "continent": "Antarctica",
+        "abbreviation": "AN"
+    },
+	{
+        "continent": "Asia",
+        "abbreviation": "AS"
+    },
+	{
+        "continent": "Europe",
+        "abbreviation": "EU"
+    },
+	{
+        "continent": "Oceania"
+		"abbreviation": "OC"
+    },
+	{
+        "continent": "North America",
+        "abbreviation": "NA"
+    },
+	{
+        "continent": "South America",
+        "abbreviation": "SA"
+    }
+]

@@ -1,27 +1,35 @@
-![](https://img.shields.io/static/v1?label=category&message=template&color=red)
+![](https://img.shields.io/static/v1?label=category&message=json&color=red)
 
-# Github Template
+# College Data
 
-This template is used to create other GitHub repositories used by the college. Please ignore the remainder of this README.
+A collection of college data in JSON format for GET requests.
 
 [Documentation](doc/toc.md)
+
+## Example
+
+	fetch("https://raw.githubusercontent.com/mvccdev/college-data/main/api/{NAME}.json")
+		.then((resp) => {
+			resp.json().then((data) => {
+				//
+				// Iterate through the array here.
+				//
+			}
+		});
+	})
 
 ## Skill Prerequisites
 
 A basic understanding of the following skills are necessary to use this project.
 
-* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [OOCSS](https://www.keycdn.com/blog/oocss)
-* [BEM](https://en.bem.info/)
+* [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
 
-## Tool Dependencies
+# Tool Dependencies
 
 Install the following tools to use this project in your local development environment.
 
 * [Node.js](https://nodejs.org/)
-* [Parcel](https://parceljs.org/)
 * [Git](https://git-scm.com/)
 * [GitHub Desktop](https://desktop.github.com/)
 
@@ -46,6 +54,13 @@ Use the following CL commands to test or compile this project:
 ## Contributing
 
 Pull requests are encouraged and welcome.
+
+## Thanks
+
+Information has been gathered from the following:
+
+* [Samayo](https://github.com/samayo/country-json/)
+* [World Population Review](https://worldpopulationreview.com/)
 
 ## License
 

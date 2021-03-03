@@ -1,0 +1,4640 @@
+[
+  {
+    "zip": 47906,
+    "city": "West Lafayette",
+    "county": "Tippecanoe",
+    "pop": 77702
+  },
+  {
+    "zip": 46307,
+    "city": "Crown Point",
+    "county": "Lake",
+    "pop": 62779
+  },
+  {
+    "zip": 46143,
+    "city": "Greenwood",
+    "county": "Johnson",
+    "pop": 57211
+  },
+  {
+    "zip": 46227,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 54876
+  },
+  {
+    "zip": 46032,
+    "city": "Carmel",
+    "county": "Hamilton",
+    "pop": 51551
+  },
+  {
+    "zip": 47150,
+    "city": "New Albany",
+    "county": "Floyd",
+    "pop": 47912
+  },
+  {
+    "zip": 47130,
+    "city": "Jeffersonville",
+    "county": "Clark",
+    "pop": 46645
+  },
+  {
+    "zip": 46226,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 45652
+  },
+  {
+    "zip": 47374,
+    "city": "Richmond",
+    "county": "Wayne",
+    "pop": 45571
+  },
+  {
+    "zip": 47201,
+    "city": "Columbus",
+    "county": "Bartholomew",
+    "pop": 44831
+  },
+  {
+    "zip": 46360,
+    "city": "Michigan City",
+    "county": "La Porte",
+    "pop": 43678
+  },
+  {
+    "zip": 46038,
+    "city": "Fishers",
+    "county": "Hamilton",
+    "pop": 43381
+  },
+  {
+    "zip": 47909,
+    "city": "Lafayette",
+    "county": "Tippecanoe",
+    "pop": 43291
+  },
+  {
+    "zip": 47401,
+    "city": "Bloomington",
+    "county": "Monroe",
+    "pop": 43279
+  },
+  {
+    "zip": 46350,
+    "city": "La Porte",
+    "county": "La Porte",
+    "pop": 42763
+  },
+  {
+    "zip": 46383,
+    "city": "Valparaiso",
+    "county": "Porter",
+    "pop": 42245
+  },
+  {
+    "zip": 47905,
+    "city": "Lafayette",
+    "county": "Tippecanoe",
+    "pop": 41631
+  },
+  {
+    "zip": 46514,
+    "city": "Elkhart",
+    "county": "Elkhart",
+    "pop": 41616
+  },
+  {
+    "zip": 46060,
+    "city": "Noblesville",
+    "county": "Hamilton",
+    "pop": 41461
+  },
+  {
+    "zip": 46140,
+    "city": "Greenfield",
+    "county": "Hancock",
+    "pop": 40292
+  },
+  {
+    "zip": 46254,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 40276
+  },
+  {
+    "zip": 46385,
+    "city": "Valparaiso",
+    "county": "Porter",
+    "pop": 39398
+  },
+  {
+    "zip": 46901,
+    "city": "Kokomo",
+    "county": "Howard",
+    "pop": 39383
+  },
+  {
+    "zip": 46237,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 39169
+  },
+  {
+    "zip": 46033,
+    "city": "Carmel",
+    "county": "Hamilton",
+    "pop": 38942
+  },
+  {
+    "zip": 46368,
+    "city": "Portage",
+    "county": "Porter",
+    "pop": 38661
+  },
+  {
+    "zip": 46203,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 38581
+  },
+  {
+    "zip": 46222,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 37885
+  },
+  {
+    "zip": 46112,
+    "city": "Brownsburg",
+    "county": "Hendricks",
+    "pop": 37819
+  },
+  {
+    "zip": 46410,
+    "city": "Merrillville",
+    "county": "Lake",
+    "pop": 37813
+  },
+  {
+    "zip": 46224,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 37074
+  },
+  {
+    "zip": 46219,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 36940
+  },
+  {
+    "zip": 46217,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 36843
+  },
+  {
+    "zip": 46123,
+    "city": "Avon",
+    "county": "Hendricks",
+    "pop": 36616
+  },
+  {
+    "zip": 46220,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 36585
+  },
+  {
+    "zip": 47630,
+    "city": "Newburgh",
+    "county": "Warrick",
+    "pop": 36182
+  },
+  {
+    "zip": 46902,
+    "city": "Kokomo",
+    "county": "Howard",
+    "pop": 35778
+  },
+  {
+    "zip": 46835,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 35658
+  },
+  {
+    "zip": 46168,
+    "city": "Plainfield",
+    "county": "Hendricks",
+    "pop": 35418
+  },
+  {
+    "zip": 47802,
+    "city": "Terre Haute",
+    "county": "Vigo",
+    "pop": 34894
+  },
+  {
+    "zip": 46074,
+    "city": "Westfield",
+    "county": "Hamilton",
+    "pop": 34755
+  },
+  {
+    "zip": 47714,
+    "city": "Evansville",
+    "county": "Vanderburgh",
+    "pop": 34447
+  },
+  {
+    "zip": 46260,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 34445
+  },
+  {
+    "zip": 47403,
+    "city": "Bloomington",
+    "county": "Monroe",
+    "pop": 33505
+  },
+  {
+    "zip": 46131,
+    "city": "Franklin",
+    "county": "Johnson",
+    "pop": 33215
+  },
+  {
+    "zip": 46526,
+    "city": "Goshen",
+    "county": "Elkhart",
+    "pop": 33117
+  },
+  {
+    "zip": 46235,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 33063
+  },
+  {
+    "zip": 47711,
+    "city": "Evansville",
+    "county": "Vanderburgh",
+    "pop": 32612
+  },
+  {
+    "zip": 47304,
+    "city": "Muncie",
+    "county": "Delaware",
+    "pop": 32105
+  },
+  {
+    "zip": 46544,
+    "city": "Mishawaka",
+    "county": "St Joseph",
+    "pop": 31988
+  },
+  {
+    "zip": 46241,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 31941
+  },
+  {
+    "zip": 46530,
+    "city": "Granger",
+    "county": "St Joseph",
+    "pop": 31843
+  },
+  {
+    "zip": 46151,
+    "city": "Martinsville",
+    "county": "Morgan",
+    "pop": 31589
+  },
+  {
+    "zip": 47274,
+    "city": "Seymour",
+    "county": "Jackson",
+    "pop": 31352
+  },
+  {
+    "zip": 46516,
+    "city": "Elkhart",
+    "county": "Elkhart",
+    "pop": 31329
+  },
+  {
+    "zip": 46614,
+    "city": "South Bend",
+    "county": "St Joseph",
+    "pop": 31035
+  },
+  {
+    "zip": 46201,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 30962
+  },
+  {
+    "zip": 46342,
+    "city": "Hobart",
+    "county": "Lake",
+    "pop": 30874
+  },
+  {
+    "zip": 46239,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 30651
+  },
+  {
+    "zip": 47362,
+    "city": "New Castle",
+    "county": "Henry",
+    "pop": 29873
+  },
+  {
+    "zip": 46142,
+    "city": "Greenwood",
+    "county": "Johnson",
+    "pop": 29696
+  },
+  {
+    "zip": 46825,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 29507
+  },
+  {
+    "zip": 46077,
+    "city": "Zionsville",
+    "county": "Boone",
+    "pop": 29296
+  },
+  {
+    "zip": 46218,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 28918
+  },
+  {
+    "zip": 46229,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 28768
+  },
+  {
+    "zip": 46236,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 28705
+  },
+  {
+    "zip": 46804,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 28587
+  },
+  {
+    "zip": 46815,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 28242
+  },
+  {
+    "zip": 46312,
+    "city": "East Chicago",
+    "county": "Lake",
+    "pop": 28201
+  },
+  {
+    "zip": 46947,
+    "city": "Logansport",
+    "county": "Cass",
+    "pop": 27830
+  },
+  {
+    "zip": 46176,
+    "city": "Shelbyville",
+    "county": "Shelby",
+    "pop": 27737
+  },
+  {
+    "zip": 46205,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 27580
+  },
+  {
+    "zip": 47933,
+    "city": "Crawfordsville",
+    "county": "Montgomery",
+    "pop": 27521
+  },
+  {
+    "zip": 47421,
+    "city": "Bedford",
+    "county": "Lawrence",
+    "pop": 27417
+  },
+  {
+    "zip": 46528,
+    "city": "Goshen",
+    "county": "Elkhart",
+    "pop": 27001
+  },
+  {
+    "zip": 46234,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 26864
+  },
+  {
+    "zip": 47203,
+    "city": "Columbus",
+    "county": "Bartholomew",
+    "pop": 26807
+  },
+  {
+    "zip": 47712,
+    "city": "Evansville",
+    "county": "Vanderburgh",
+    "pop": 26764
+  },
+  {
+    "zip": 46221,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 26714
+  },
+  {
+    "zip": 46750,
+    "city": "Huntington",
+    "county": "Huntington",
+    "pop": 26499
+  },
+  {
+    "zip": 46517,
+    "city": "Elkhart",
+    "county": "Elkhart",
+    "pop": 26468
+  },
+  {
+    "zip": 46628,
+    "city": "South Bend",
+    "county": "St Joseph",
+    "pop": 26396
+  },
+  {
+    "zip": 47715,
+    "city": "Evansville",
+    "county": "Vanderburgh",
+    "pop": 26196
+  },
+  {
+    "zip": 47302,
+    "city": "Muncie",
+    "county": "Delaware",
+    "pop": 26018
+  },
+  {
+    "zip": 47408,
+    "city": "Bloomington",
+    "county": "Monroe",
+    "pop": 25804
+  },
+  {
+    "zip": 46268,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 25443
+  },
+  {
+    "zip": 47591,
+    "city": "Vincennes",
+    "county": "Knox",
+    "pop": 25370
+  },
+  {
+    "zip": 46304,
+    "city": "Chesterton",
+    "county": "Porter",
+    "pop": 25351
+  },
+  {
+    "zip": 47303,
+    "city": "Muncie",
+    "county": "Delaware",
+    "pop": 25124
+  },
+  {
+    "zip": 46806,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 24711
+  },
+  {
+    "zip": 46545,
+    "city": "Mishawaka",
+    "county": "St Joseph",
+    "pop": 24685
+  },
+  {
+    "zip": 46214,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 24549
+  },
+  {
+    "zip": 46256,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 23837
+  },
+  {
+    "zip": 47404,
+    "city": "Bloomington",
+    "county": "Monroe",
+    "pop": 23832
+  },
+  {
+    "zip": 46563,
+    "city": "Plymouth",
+    "county": "Marshall",
+    "pop": 23664
+  },
+  {
+    "zip": 46375,
+    "city": "Schererville",
+    "county": "Lake",
+    "pop": 23598
+  },
+  {
+    "zip": 46970,
+    "city": "Peru",
+    "county": "Miami",
+    "pop": 23499
+  },
+  {
+    "zip": 46953,
+    "city": "Marion",
+    "county": "Grant",
+    "pop": 23333
+  },
+  {
+    "zip": 46725,
+    "city": "Columbia City",
+    "county": "Whitley",
+    "pop": 23286
+  },
+  {
+    "zip": 46158,
+    "city": "Mooresville",
+    "county": "Morgan",
+    "pop": 23152
+  },
+  {
+    "zip": 46208,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 23080
+  },
+  {
+    "zip": 46845,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 23066
+  },
+  {
+    "zip": 47025,
+    "city": "Lawrenceburg",
+    "county": "Dearborn",
+    "pop": 22794
+  },
+  {
+    "zip": 46321,
+    "city": "Munster",
+    "county": "Lake",
+    "pop": 22689
+  },
+  {
+    "zip": 46322,
+    "city": "Highland",
+    "county": "Lake",
+    "pop": 22581
+  },
+  {
+    "zip": 46052,
+    "city": "Lebanon",
+    "county": "Boone",
+    "pop": 22443
+  },
+  {
+    "zip": 47331,
+    "city": "Connersville",
+    "county": "Fayette",
+    "pop": 22391
+  },
+  {
+    "zip": 46041,
+    "city": "Frankfort",
+    "county": "Clinton",
+    "pop": 22247
+  },
+  {
+    "zip": 47250,
+    "city": "Madison",
+    "county": "Jefferson",
+    "pop": 22202
+  },
+  {
+    "zip": 46323,
+    "city": "Hammond",
+    "county": "Lake",
+    "pop": 22195
+  },
+  {
+    "zip": 46580,
+    "city": "Warsaw",
+    "county": "Kosciusko",
+    "pop": 22013
+  },
+  {
+    "zip": 47240,
+    "city": "Greensburg",
+    "county": "Decatur",
+    "pop": 21836
+  },
+  {
+    "zip": 46324,
+    "city": "Hammond",
+    "county": "Lake",
+    "pop": 21820
+  },
+  {
+    "zip": 46805,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 21704
+  },
+  {
+    "zip": 46311,
+    "city": "Dyer",
+    "county": "Lake",
+    "pop": 21632
+  },
+  {
+    "zip": 47546,
+    "city": "Jasper",
+    "county": "Dubois",
+    "pop": 21538
+  },
+  {
+    "zip": 46619,
+    "city": "South Bend",
+    "county": "St Joseph",
+    "pop": 21471
+  },
+  {
+    "zip": 47803,
+    "city": "Terre Haute",
+    "county": "Vigo",
+    "pop": 20939
+  },
+  {
+    "zip": 46818,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 20852
+  },
+  {
+    "zip": 46202,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 20504
+  },
+  {
+    "zip": 46135,
+    "city": "Greencastle",
+    "county": "Putnam",
+    "pop": 20462
+  },
+  {
+    "zip": 47265,
+    "city": "North Vernon",
+    "county": "Jennings",
+    "pop": 20344
+  },
+  {
+    "zip": 46808,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 19831
+  },
+  {
+    "zip": 46012,
+    "city": "Anderson",
+    "county": "Madison",
+    "pop": 19806
+  },
+  {
+    "zip": 46240,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 19785
+  },
+  {
+    "zip": 47129,
+    "city": "Clarksville",
+    "county": "Clark",
+    "pop": 19684
+  },
+  {
+    "zip": 47834,
+    "city": "Brazil",
+    "county": "Clay",
+    "pop": 19263
+  },
+  {
+    "zip": 46816,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 19055
+  },
+  {
+    "zip": 46733,
+    "city": "Decatur",
+    "county": "Adams",
+    "pop": 18943
+  },
+  {
+    "zip": 47710,
+    "city": "Evansville",
+    "county": "Vanderburgh",
+    "pop": 18869
+  },
+  {
+    "zip": 46706,
+    "city": "Auburn",
+    "county": "De Kalb",
+    "pop": 18771
+  },
+  {
+    "zip": 46952,
+    "city": "Marion",
+    "county": "Grant",
+    "pop": 18625
+  },
+  {
+    "zip": 46250,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 18402
+  },
+  {
+    "zip": 46703,
+    "city": "Angola",
+    "county": "Steuben",
+    "pop": 18264
+  },
+  {
+    "zip": 46016,
+    "city": "Anderson",
+    "county": "Madison",
+    "pop": 18046
+  },
+  {
+    "zip": 46404,
+    "city": "Gary",
+    "county": "Lake",
+    "pop": 17894
+  },
+  {
+    "zip": 47501,
+    "city": "Washington",
+    "county": "Daviess",
+    "pop": 17882
+  },
+  {
+    "zip": 47172,
+    "city": "Sellersburg",
+    "county": "Clark",
+    "pop": 17813
+  },
+  {
+    "zip": 47720,
+    "city": "Evansville",
+    "county": "Vanderburgh",
+    "pop": 17763
+  },
+  {
+    "zip": 46356,
+    "city": "Lowell",
+    "county": "Lake",
+    "pop": 17720
+  },
+  {
+    "zip": 46807,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 17538
+  },
+  {
+    "zip": 46319,
+    "city": "Griffith",
+    "county": "Lake",
+    "pop": 17513
+  },
+  {
+    "zip": 47725,
+    "city": "Evansville",
+    "county": "Vanderburgh",
+    "pop": 17326
+  },
+  {
+    "zip": 47904,
+    "city": "Lafayette",
+    "county": "Tippecanoe",
+    "pop": 17285
+  },
+  {
+    "zip": 46774,
+    "city": "New Haven",
+    "county": "Allen",
+    "pop": 17221
+  },
+  {
+    "zip": 46064,
+    "city": "Pendleton",
+    "county": "Madison",
+    "pop": 17168
+  },
+  {
+    "zip": 46013,
+    "city": "Anderson",
+    "county": "Madison",
+    "pop": 17136
+  },
+  {
+    "zip": 46011,
+    "city": "Anderson",
+    "county": "Madison",
+    "pop": 17069
+  },
+  {
+    "zip": 47111,
+    "city": "Charlestown",
+    "county": "Clark",
+    "pop": 16971
+  },
+  {
+    "zip": 47112,
+    "city": "Corydon",
+    "county": "Harrison",
+    "pop": 16593
+  },
+  {
+    "zip": 46228,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 16430
+  },
+  {
+    "zip": 46122,
+    "city": "Danville",
+    "county": "Hendricks",
+    "pop": 16300
+  },
+  {
+    "zip": 46992,
+    "city": "Wabash",
+    "county": "Wabash",
+    "pop": 16260
+  },
+  {
+    "zip": 46637,
+    "city": "South Bend",
+    "county": "St Joseph",
+    "pop": 16090
+  },
+  {
+    "zip": 46373,
+    "city": "Saint John",
+    "county": "Lake",
+    "pop": 16083
+  },
+  {
+    "zip": 46408,
+    "city": "Gary",
+    "county": "Lake",
+    "pop": 15526
+  },
+  {
+    "zip": 46113,
+    "city": "Camby",
+    "county": "Marion",
+    "pop": 15505
+  },
+  {
+    "zip": 46755,
+    "city": "Kendallville",
+    "county": "Noble",
+    "pop": 15097
+  },
+  {
+    "zip": 46714,
+    "city": "Bluffton",
+    "county": "Wells",
+    "pop": 14931
+  },
+  {
+    "zip": 47170,
+    "city": "Scottsburg",
+    "county": "Scott",
+    "pop": 14919
+  },
+  {
+    "zip": 47167,
+    "city": "Salem",
+    "county": "Washington",
+    "pop": 14879
+  },
+  {
+    "zip": 46303,
+    "city": "Cedar Lake",
+    "county": "Lake",
+    "pop": 14765
+  },
+  {
+    "zip": 47960,
+    "city": "Monticello",
+    "county": "White",
+    "pop": 14721
+  },
+  {
+    "zip": 46975,
+    "city": "Rochester",
+    "county": "Fulton",
+    "pop": 14325
+  },
+  {
+    "zip": 46184,
+    "city": "Whiteland",
+    "county": "Johnson",
+    "pop": 14042
+  },
+  {
+    "zip": 47601,
+    "city": "Boonville",
+    "county": "Warrick",
+    "pop": 13854
+  },
+  {
+    "zip": 46310,
+    "city": "Demotte",
+    "county": "Jasper",
+    "pop": 13832
+  },
+  {
+    "zip": 46615,
+    "city": "South Bend",
+    "county": "St Joseph",
+    "pop": 13719
+  },
+  {
+    "zip": 46561,
+    "city": "Osceola",
+    "county": "St Joseph",
+    "pop": 13615
+  },
+  {
+    "zip": 46320,
+    "city": "Hammond",
+    "county": "Lake",
+    "pop": 13561
+  },
+  {
+    "zip": 46582,
+    "city": "Warsaw",
+    "county": "Kosciusko",
+    "pop": 13459
+  },
+  {
+    "zip": 46403,
+    "city": "Gary",
+    "county": "Lake",
+    "pop": 13435
+  },
+  {
+    "zip": 47620,
+    "city": "Mount Vernon",
+    "county": "Posey",
+    "pop": 13129
+  },
+  {
+    "zip": 46163,
+    "city": "New Palestine",
+    "county": "Hancock",
+    "pop": 13088
+  },
+  {
+    "zip": 46107,
+    "city": "Beech Grove",
+    "county": "Marion",
+    "pop": 13081
+  },
+  {
+    "zip": 46814,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 12649
+  },
+  {
+    "zip": 46055,
+    "city": "Mc Cordsville",
+    "county": "Hancock",
+    "pop": 12638
+  },
+  {
+    "zip": 46550,
+    "city": "Nappanee",
+    "county": "Elkhart",
+    "pop": 12624
+  },
+  {
+    "zip": 47805,
+    "city": "Terre Haute",
+    "county": "Vigo",
+    "pop": 12624
+  },
+  {
+    "zip": 46040,
+    "city": "Fortville",
+    "county": "Hancock",
+    "pop": 12474
+  },
+  {
+    "zip": 46761,
+    "city": "Lagrange",
+    "county": "Lagrange",
+    "pop": 12325
+  },
+  {
+    "zip": 46394,
+    "city": "Whiting",
+    "county": "Lake",
+    "pop": 12319
+  },
+  {
+    "zip": 47371,
+    "city": "Portland",
+    "county": "Jay",
+    "pop": 12200
+  },
+  {
+    "zip": 47670,
+    "city": "Princeton",
+    "county": "Gibson",
+    "pop": 12048
+  },
+  {
+    "zip": 47807,
+    "city": "Terre Haute",
+    "county": "Vigo",
+    "pop": 11886
+  },
+  {
+    "zip": 46540,
+    "city": "Middlebury",
+    "county": "Elkhart",
+    "pop": 11881
+  },
+  {
+    "zip": 47006,
+    "city": "Batesville",
+    "county": "Ripley",
+    "pop": 11880
+  },
+  {
+    "zip": 47804,
+    "city": "Terre Haute",
+    "county": "Vigo",
+    "pop": 11781
+  },
+  {
+    "zip": 47119,
+    "city": "Floyds Knobs",
+    "county": "Floyd",
+    "pop": 11700
+  },
+  {
+    "zip": 46534,
+    "city": "Knox",
+    "county": "Starke",
+    "pop": 11686
+  },
+  {
+    "zip": 46036,
+    "city": "Elwood",
+    "county": "Madison",
+    "pop": 11678
+  },
+  {
+    "zip": 47978,
+    "city": "Rensselaer",
+    "county": "Jasper",
+    "pop": 11515
+  },
+  {
+    "zip": 46327,
+    "city": "Hammond",
+    "county": "Lake",
+    "pop": 11466
+  },
+  {
+    "zip": 46613,
+    "city": "South Bend",
+    "county": "St Joseph",
+    "pop": 11327
+  },
+  {
+    "zip": 47586,
+    "city": "Tell City",
+    "county": "Perry",
+    "pop": 11022
+  },
+  {
+    "zip": 46259,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 10999
+  },
+  {
+    "zip": 47122,
+    "city": "Georgetown",
+    "county": "Floyd",
+    "pop": 10943
+  },
+  {
+    "zip": 47460,
+    "city": "Spencer",
+    "county": "Owen",
+    "pop": 10917
+  },
+  {
+    "zip": 46407,
+    "city": "Gary",
+    "county": "Lake",
+    "pop": 10905
+  },
+  {
+    "zip": 46405,
+    "city": "Lake Station",
+    "county": "Lake",
+    "pop": 10855
+  },
+  {
+    "zip": 46802,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 10584
+  },
+  {
+    "zip": 47446,
+    "city": "Mitchell",
+    "county": "Lawrence",
+    "pop": 10393
+  },
+  {
+    "zip": 46341,
+    "city": "Hebron",
+    "county": "Porter",
+    "pop": 10357
+  },
+  {
+    "zip": 46231,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 10277
+  },
+  {
+    "zip": 47713,
+    "city": "Evansville",
+    "county": "Vanderburgh",
+    "pop": 10108
+  },
+  {
+    "zip": 47542,
+    "city": "Huntingburg",
+    "county": "Dubois",
+    "pop": 10061
+  },
+  {
+    "zip": 47001,
+    "city": "Aurora",
+    "county": "Dearborn",
+    "pop": 10009
+  },
+  {
+    "zip": 46001,
+    "city": "Alexandria",
+    "county": "Madison",
+    "pop": 9993
+  },
+  {
+    "zip": 46173,
+    "city": "Rushville",
+    "county": "Rush",
+    "pop": 9905
+  },
+  {
+    "zip": 46506,
+    "city": "Bremen",
+    "county": "Marshall",
+    "pop": 9700
+  },
+  {
+    "zip": 46617,
+    "city": "South Bend",
+    "county": "St Joseph",
+    "pop": 9689
+  },
+  {
+    "zip": 46819,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 9657
+  },
+  {
+    "zip": 47842,
+    "city": "Clinton",
+    "county": "Vermillion",
+    "pop": 9597
+  },
+  {
+    "zip": 46391,
+    "city": "Westville",
+    "county": "La Porte",
+    "pop": 9528
+  },
+  {
+    "zip": 46574,
+    "city": "Walkerton",
+    "county": "St Joseph",
+    "pop": 9436
+  },
+  {
+    "zip": 46507,
+    "city": "Bristol",
+    "county": "Elkhart",
+    "pop": 9434
+  },
+  {
+    "zip": 46803,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 9425
+  },
+  {
+    "zip": 47012,
+    "city": "Brookville",
+    "county": "Franklin",
+    "pop": 9396
+  },
+  {
+    "zip": 47429,
+    "city": "Ellettsville",
+    "county": "Monroe",
+    "pop": 9269
+  },
+  {
+    "zip": 46809,
+    "city": "Fort Wayne",
+    "county": "Allen",
+    "pop": 9212
+  },
+  {
+    "zip": 46567,
+    "city": "Syracuse",
+    "county": "Kosciusko",
+    "pop": 9162
+  },
+  {
+    "zip": 47348,
+    "city": "Hartford City",
+    "county": "Blackford",
+    "pop": 9159
+  },
+  {
+    "zip": 47441,
+    "city": "Linton",
+    "county": "Greene",
+    "pop": 9153
+  },
+  {
+    "zip": 46406,
+    "city": "Gary",
+    "county": "Lake",
+    "pop": 9042
+  },
+  {
+    "zip": 47424,
+    "city": "Bloomfield",
+    "county": "Greene",
+    "pop": 8965
+  },
+  {
+    "zip": 46124,
+    "city": "Edinburgh",
+    "county": "Johnson",
+    "pop": 8949
+  },
+  {
+    "zip": 47885,
+    "city": "West Terre Haute",
+    "county": "Vigo",
+    "pop": 8920
+  },
+  {
+    "zip": 46278,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 8859
+  },
+  {
+    "zip": 46962,
+    "city": "North Manchester",
+    "county": "Wabash",
+    "pop": 8844
+  },
+  {
+    "zip": 46711,
+    "city": "Berne",
+    "county": "Adams",
+    "pop": 8770
+  },
+  {
+    "zip": 47872,
+    "city": "Rockville",
+    "county": "Parke",
+    "pop": 8747
+  },
+  {
+    "zip": 46565,
+    "city": "Shipshewana",
+    "county": "Lagrange",
+    "pop": 8642
+  },
+  {
+    "zip": 47553,
+    "city": "Loogootee",
+    "county": "Martin",
+    "pop": 8614
+  },
+  {
+    "zip": 46072,
+    "city": "Tipton",
+    "county": "Tipton",
+    "pop": 8592
+  },
+  {
+    "zip": 46738,
+    "city": "Garrett",
+    "county": "De Kalb",
+    "pop": 8549
+  },
+  {
+    "zip": 46204,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 8356
+  },
+  {
+    "zip": 47394,
+    "city": "Winchester",
+    "county": "Randolph",
+    "pop": 8334
+  },
+  {
+    "zip": 46767,
+    "city": "Ligonier",
+    "county": "Noble",
+    "pop": 8102
+  },
+  {
+    "zip": 46701,
+    "city": "Albion",
+    "county": "Noble",
+    "pop": 8102
+  },
+  {
+    "zip": 46923,
+    "city": "Delphi",
+    "county": "Carroll",
+    "pop": 8046
+  },
+  {
+    "zip": 46723,
+    "city": "Churubusco",
+    "county": "Whitley",
+    "pop": 7884
+  },
+  {
+    "zip": 46392,
+    "city": "Wheatfield",
+    "county": "Jasper",
+    "pop": 7734
+  },
+  {
+    "zip": 47882,
+    "city": "Sullivan",
+    "county": "Sullivan",
+    "pop": 7731
+  },
+  {
+    "zip": 46737,
+    "city": "Fremont",
+    "county": "Steuben",
+    "pop": 7329
+  },
+  {
+    "zip": 46556,
+    "city": "Notre Dame",
+    "county": "St Joseph",
+    "pop": 7301
+  },
+  {
+    "zip": 47448,
+    "city": "Nashville",
+    "county": "Brown",
+    "pop": 7261
+  },
+  {
+    "zip": 46069,
+    "city": "Sheridan",
+    "county": "Hamilton",
+    "pop": 7220
+  },
+  {
+    "zip": 46409,
+    "city": "Gary",
+    "county": "Lake",
+    "pop": 7205
+  },
+  {
+    "zip": 46167,
+    "city": "Pittsboro",
+    "county": "Hendricks",
+    "pop": 7066
+  },
+  {
+    "zip": 47454,
+    "city": "Paoli",
+    "county": "Orange",
+    "pop": 7046
+  },
+  {
+    "zip": 47102,
+    "city": "Austin",
+    "county": "Scott",
+    "pop": 6953
+  },
+  {
+    "zip": 46552,
+    "city": "New Carlisle",
+    "county": "St Joseph",
+    "pop": 6907
+  },
+  {
+    "zip": 47396,
+    "city": "Yorktown",
+    "county": "Delaware",
+    "pop": 6903
+  },
+  {
+    "zip": 46106,
+    "city": "Bargersville",
+    "county": "Johnson",
+    "pop": 6855
+  },
+  {
+    "zip": 46280,
+    "city": "Indianapolis",
+    "county": "Hamilton",
+    "pop": 6824
+  },
+  {
+    "zip": 46795,
+    "city": "Wolcottville",
+    "county": "Lagrange",
+    "pop": 6651
+  },
+  {
+    "zip": 46783,
+    "city": "Roanoke",
+    "county": "Huntington",
+    "pop": 6651
+  },
+  {
+    "zip": 46034,
+    "city": "Cicero",
+    "county": "Hamilton",
+    "pop": 6649
+  },
+  {
+    "zip": 47041,
+    "city": "Sunman",
+    "county": "Ripley",
+    "pop": 6626
+  },
+  {
+    "zip": 46075,
+    "city": "Whitestown",
+    "county": "Boone",
+    "pop": 6614
+  },
+  {
+    "zip": 46777,
+    "city": "Ossian",
+    "county": "Wells",
+    "pop": 6493
+  },
+  {
+    "zip": 46635,
+    "city": "South Bend",
+    "county": "St Joseph",
+    "pop": 6363
+  },
+  {
+    "zip": 46160,
+    "city": "Morgantown",
+    "county": "Brown",
+    "pop": 6321
+  },
+  {
+    "zip": 46402,
+    "city": "Gary",
+    "county": "Lake",
+    "pop": 6295
+  },
+  {
+    "zip": 46996,
+    "city": "Winamac",
+    "county": "Pulaski",
+    "pop": 6159
+  },
+  {
+    "zip": 46933,
+    "city": "Gas City",
+    "county": "Grant",
+    "pop": 6126
+  },
+  {
+    "zip": 47567,
+    "city": "Petersburg",
+    "county": "Pike",
+    "pop": 6116
+  },
+  {
+    "zip": 47165,
+    "city": "Pekin",
+    "county": "Washington",
+    "pop": 6034
+  },
+  {
+    "zip": 47060,
+    "city": "West Harrison",
+    "county": "Dearborn",
+    "pop": 5942
+  },
+  {
+    "zip": 47243,
+    "city": "Hanover",
+    "county": "Jefferson",
+    "pop": 5907
+  },
+  {
+    "zip": 46936,
+    "city": "Greentown",
+    "county": "Howard",
+    "pop": 5857
+  },
+  {
+    "zip": 46017,
+    "city": "Anderson",
+    "county": "Madison",
+    "pop": 5814
+  },
+  {
+    "zip": 46601,
+    "city": "South Bend",
+    "county": "St Joseph",
+    "pop": 5714
+  },
+  {
+    "zip": 46571,
+    "city": "Topeka",
+    "county": "Lagrange",
+    "pop": 5682
+  },
+  {
+    "zip": 47918,
+    "city": "Attica",
+    "county": "Fountain",
+    "pop": 5679
+  },
+  {
+    "zip": 47220,
+    "city": "Brownstown",
+    "county": "Jackson",
+    "pop": 5671
+  },
+  {
+    "zip": 46366,
+    "city": "North Judson",
+    "county": "Starke",
+    "pop": 5610
+  },
+  {
+    "zip": 46225,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 5577
+  },
+  {
+    "zip": 46765,
+    "city": "Leo",
+    "county": "Allen",
+    "pop": 5568
+  },
+  {
+    "zip": 46148,
+    "city": "Knightstown",
+    "county": "Henry",
+    "pop": 5555
+  },
+  {
+    "zip": 46121,
+    "city": "Coatesville",
+    "county": "Hendricks",
+    "pop": 5545
+  },
+  {
+    "zip": 47353,
+    "city": "Liberty",
+    "county": "Union",
+    "pop": 5508
+  },
+  {
+    "zip": 47031,
+    "city": "Milan",
+    "county": "Ripley",
+    "pop": 5477
+  },
+  {
+    "zip": 46616,
+    "city": "South Bend",
+    "county": "St Joseph",
+    "pop": 5457
+  },
+  {
+    "zip": 47610,
+    "city": "Chandler",
+    "county": "Warrick",
+    "pop": 5444
+  },
+  {
+    "zip": 47635,
+    "city": "Rockport",
+    "county": "Spencer",
+    "pop": 5432
+  },
+  {
+    "zip": 47452,
+    "city": "Orleans",
+    "county": "Orange",
+    "pop": 5360
+  },
+  {
+    "zip": 46120,
+    "city": "Cloverdale",
+    "county": "Putnam",
+    "pop": 5332
+  },
+  {
+    "zip": 47932,
+    "city": "Covington",
+    "county": "Fountain",
+    "pop": 5317
+  },
+  {
+    "zip": 46181,
+    "city": "Trafalgar",
+    "county": "Johnson",
+    "pop": 5286
+  },
+  {
+    "zip": 47356,
+    "city": "Middletown",
+    "county": "Henry",
+    "pop": 5286
+  },
+  {
+    "zip": 47043,
+    "city": "Vevay",
+    "county": "Switzerland",
+    "pop": 5212
+  },
+  {
+    "zip": 47330,
+    "city": "Centerville",
+    "county": "Wayne",
+    "pop": 5196
+  },
+  {
+    "zip": 47124,
+    "city": "Greenville",
+    "county": "Floyd",
+    "pop": 5146
+  },
+  {
+    "zip": 47040,
+    "city": "Rising Sun",
+    "county": "Ohio",
+    "pop": 5103
+  },
+  {
+    "zip": 47306,
+    "city": "Muncie",
+    "county": "Delaware",
+    "pop": 5096
+  },
+  {
+    "zip": 46721,
+    "city": "Butler",
+    "county": "De Kalb",
+    "pop": 5084
+  },
+  {
+    "zip": 46118,
+    "city": "Clayton",
+    "county": "Hendricks",
+    "pop": 5068
+  },
+  {
+    "zip": 46748,
+    "city": "Huntertown",
+    "county": "Allen",
+    "pop": 5021
+  },
+  {
+    "zip": 46562,
+    "city": "Pierceton",
+    "county": "Kosciusko",
+    "pop": 5010
+  },
+  {
+    "zip": 47106,
+    "city": "Borden",
+    "county": "Clark",
+    "pop": 5005
+  },
+  {
+    "zip": 47390,
+    "city": "Union City",
+    "county": "Randolph",
+    "pop": 4960
+  },
+  {
+    "zip": 46126,
+    "city": "Fairland",
+    "county": "Shelby",
+    "pop": 4956
+  },
+  {
+    "zip": 46989,
+    "city": "Upland",
+    "county": "Grant",
+    "pop": 4947
+  },
+  {
+    "zip": 46979,
+    "city": "Russiaville",
+    "county": "Howard",
+    "pop": 4940
+  },
+  {
+    "zip": 46590,
+    "city": "Winona Lake",
+    "county": "Kosciusko",
+    "pop": 4925
+  },
+  {
+    "zip": 46554,
+    "city": "North Liberty",
+    "county": "St Joseph",
+    "pop": 4878
+  },
+  {
+    "zip": 46793,
+    "city": "Waterloo",
+    "county": "De Kalb",
+    "pop": 4874
+  },
+  {
+    "zip": 47660,
+    "city": "Oakland City",
+    "county": "Gibson",
+    "pop": 4868
+  },
+  {
+    "zip": 46347,
+    "city": "Kouts",
+    "county": "Porter",
+    "pop": 4833
+  },
+  {
+    "zip": 47462,
+    "city": "Springville",
+    "county": "Lawrence",
+    "pop": 4812
+  },
+  {
+    "zip": 47562,
+    "city": "Odon",
+    "county": "Daviess",
+    "pop": 4755
+  },
+  {
+    "zip": 47126,
+    "city": "Henryville",
+    "county": "Clark",
+    "pop": 4698
+  },
+  {
+    "zip": 46746,
+    "city": "Howe",
+    "county": "Lagrange",
+    "pop": 4640
+  },
+  {
+    "zip": 47558,
+    "city": "Montgomery",
+    "county": "Daviess",
+    "pop": 4632
+  },
+  {
+    "zip": 47246,
+    "city": "Hope",
+    "county": "Bartholomew",
+    "pop": 4600
+  },
+  {
+    "zip": 47037,
+    "city": "Osgood",
+    "county": "Ripley",
+    "pop": 4553
+  },
+  {
+    "zip": 46741,
+    "city": "Grabill",
+    "county": "Allen",
+    "pop": 4553
+  },
+  {
+    "zip": 47117,
+    "city": "Elizabeth",
+    "county": "Harrison",
+    "pop": 4531
+  },
+  {
+    "zip": 47327,
+    "city": "Cambridge City",
+    "county": "Wayne",
+    "pop": 4512
+  },
+  {
+    "zip": 47136,
+    "city": "Lanesville",
+    "county": "Harrison",
+    "pop": 4482
+  },
+  {
+    "zip": 47018,
+    "city": "Dillsboro",
+    "county": "Dearborn",
+    "pop": 4477
+  },
+  {
+    "zip": 47438,
+    "city": "Jasonville",
+    "county": "Greene",
+    "pop": 4475
+  },
+  {
+    "zip": 47432,
+    "city": "French Lick",
+    "county": "Orange",
+    "pop": 4386
+  },
+  {
+    "zip": 47138,
+    "city": "Lexington",
+    "county": "Scott",
+    "pop": 4378
+  },
+  {
+    "zip": 47532,
+    "city": "Ferdinand",
+    "county": "Dubois",
+    "pop": 4358
+  },
+  {
+    "zip": 46511,
+    "city": "Culver",
+    "county": "Marshall",
+    "pop": 4308
+  },
+  {
+    "zip": 46710,
+    "city": "Avilla",
+    "county": "Noble",
+    "pop": 4291
+  },
+  {
+    "zip": 46928,
+    "city": "Fairmount",
+    "county": "Grant",
+    "pop": 4265
+  },
+  {
+    "zip": 47639,
+    "city": "Haubstadt",
+    "county": "Gibson",
+    "pop": 4243
+  },
+  {
+    "zip": 47648,
+    "city": "Fort Branch",
+    "county": "Gibson",
+    "pop": 4219
+  },
+  {
+    "zip": 46538,
+    "city": "Leesburg",
+    "county": "Kosciusko",
+    "pop": 4169
+  },
+  {
+    "zip": 46164,
+    "city": "Nineveh",
+    "county": "Johnson",
+    "pop": 4166
+  },
+  {
+    "zip": 46542,
+    "city": "Milford",
+    "county": "Kosciusko",
+    "pop": 4142
+  },
+  {
+    "zip": 47164,
+    "city": "Palmyra",
+    "county": "Harrison",
+    "pop": 4115
+  },
+  {
+    "zip": 46157,
+    "city": "Monrovia",
+    "county": "Morgan",
+    "pop": 4103
+  },
+  {
+    "zip": 47512,
+    "city": "Bicknell",
+    "county": "Knox",
+    "pop": 4095
+  },
+  {
+    "zip": 47042,
+    "city": "Versailles",
+    "county": "Ripley",
+    "pop": 4089
+  },
+  {
+    "zip": 47987,
+    "city": "Veedersburg",
+    "county": "Fountain",
+    "pop": 4074
+  },
+  {
+    "zip": 47433,
+    "city": "Gosport",
+    "county": "Owen",
+    "pop": 4039
+  },
+  {
+    "zip": 47406,
+    "city": "Bloomington",
+    "county": "Monroe",
+    "pop": 3945
+  },
+  {
+    "zip": 46510,
+    "city": "Claypool",
+    "county": "Kosciusko",
+    "pop": 3924
+  },
+  {
+    "zip": 46797,
+    "city": "Woodburn",
+    "county": "Allen",
+    "pop": 3915
+  },
+  {
+    "zip": 47346,
+    "city": "Hagerstown",
+    "county": "Wayne",
+    "pop": 3911
+  },
+  {
+    "zip": 46740,
+    "city": "Geneva",
+    "county": "Adams",
+    "pop": 3874
+  },
+  {
+    "zip": 46787,
+    "city": "South Whitley",
+    "county": "Whitley",
+    "pop": 3865
+  },
+  {
+    "zip": 46573,
+    "city": "Wakarusa",
+    "county": "Elkhart",
+    "pop": 3812
+  },
+  {
+    "zip": 47838,
+    "city": "Carlisle",
+    "county": "Sullivan",
+    "pop": 3772
+  },
+  {
+    "zip": 46792,
+    "city": "Warren",
+    "county": "Huntington",
+    "pop": 3756
+  },
+  {
+    "zip": 47665,
+    "city": "Owensville",
+    "county": "Gibson",
+    "pop": 3746
+  },
+  {
+    "zip": 46504,
+    "city": "Bourbon",
+    "county": "Marshall",
+    "pop": 3735
+  },
+  {
+    "zip": 46788,
+    "city": "Spencerville",
+    "county": "De Kalb",
+    "pop": 3723
+  },
+  {
+    "zip": 47581,
+    "city": "Shoals",
+    "county": "Martin",
+    "pop": 3721
+  },
+  {
+    "zip": 47901,
+    "city": "Lafayette",
+    "county": "Tippecanoe",
+    "pop": 3715
+  },
+  {
+    "zip": 47024,
+    "city": "Laurel",
+    "county": "Franklin",
+    "pop": 3708
+  },
+  {
+    "zip": 47405,
+    "city": "Bloomington",
+    "county": "Monroe",
+    "pop": 3697
+  },
+  {
+    "zip": 47993,
+    "city": "Williamsport",
+    "county": "Warren",
+    "pop": 3661
+  },
+  {
+    "zip": 47320,
+    "city": "Albany",
+    "county": "Delaware",
+    "pop": 3648
+  },
+  {
+    "zip": 46501,
+    "city": "Argos",
+    "county": "Marshall",
+    "pop": 3613
+  },
+  {
+    "zip": 47459,
+    "city": "Solsberry",
+    "county": "Greene",
+    "pop": 3597
+  },
+  {
+    "zip": 47879,
+    "city": "Shelburn",
+    "county": "Sullivan",
+    "pop": 3592
+  },
+  {
+    "zip": 46543,
+    "city": "Millersburg",
+    "county": "Elkhart",
+    "pop": 3553
+  },
+  {
+    "zip": 47638,
+    "city": "Wadesville",
+    "county": "Posey",
+    "pop": 3514
+  },
+  {
+    "zip": 47305,
+    "city": "Muncie",
+    "county": "Delaware",
+    "pop": 3504
+  },
+  {
+    "zip": 47118,
+    "city": "English",
+    "county": "Crawford",
+    "pop": 3474
+  },
+  {
+    "zip": 46065,
+    "city": "Rossville",
+    "county": "Clinton",
+    "pop": 3444
+  },
+  {
+    "zip": 47944,
+    "city": "Fowler",
+    "county": "Benton",
+    "pop": 3402
+  },
+  {
+    "zip": 46773,
+    "city": "Monroeville",
+    "county": "Allen",
+    "pop": 3392
+  },
+  {
+    "zip": 46910,
+    "city": "Akron",
+    "county": "Fulton",
+    "pop": 3376
+  },
+  {
+    "zip": 47523,
+    "city": "Dale",
+    "county": "Spencer",
+    "pop": 3346
+  },
+  {
+    "zip": 46390,
+    "city": "Wanatah",
+    "county": "La Porte",
+    "pop": 3327
+  },
+  {
+    "zip": 47232,
+    "city": "Elizabethtown",
+    "county": "Bartholomew",
+    "pop": 3327
+  },
+  {
+    "zip": 47161,
+    "city": "New Salisbury",
+    "county": "Harrison",
+    "pop": 3305
+  },
+  {
+    "zip": 46742,
+    "city": "Hamilton",
+    "county": "Steuben",
+    "pop": 3290
+  },
+  {
+    "zip": 47229,
+    "city": "Crothersville",
+    "county": "Jackson",
+    "pop": 3261
+  },
+  {
+    "zip": 46349,
+    "city": "Lake Village",
+    "county": "Newton",
+    "pop": 3251
+  },
+  {
+    "zip": 46371,
+    "city": "Rolling Prairie",
+    "county": "La Porte",
+    "pop": 3246
+  },
+  {
+    "zip": 46732,
+    "city": "Cromwell",
+    "county": "Noble",
+    "pop": 3244
+  },
+  {
+    "zip": 47336,
+    "city": "Dunkirk",
+    "county": "Jay",
+    "pop": 3243
+  },
+  {
+    "zip": 46553,
+    "city": "New Paris",
+    "county": "Elkhart",
+    "pop": 3240
+  },
+  {
+    "zip": 47613,
+    "city": "Elberfeld",
+    "county": "Warrick",
+    "pop": 3224
+  },
+  {
+    "zip": 47923,
+    "city": "Brookston",
+    "county": "White",
+    "pop": 3220
+  },
+  {
+    "zip": 46536,
+    "city": "Lakeville",
+    "county": "St Joseph",
+    "pop": 3209
+  },
+  {
+    "zip": 46147,
+    "city": "Jamestown",
+    "county": "Boone",
+    "pop": 3209
+  },
+  {
+    "zip": 47874,
+    "city": "Rosedale",
+    "county": "Parke",
+    "pop": 3207
+  },
+  {
+    "zip": 47283,
+    "city": "Westport",
+    "county": "Decatur",
+    "pop": 3193
+  },
+  {
+    "zip": 47334,
+    "city": "Daleville",
+    "county": "Delaware",
+    "pop": 3189
+  },
+  {
+    "zip": 46071,
+    "city": "Thorntown",
+    "county": "Boone",
+    "pop": 3148
+  },
+  {
+    "zip": 46044,
+    "city": "Frankton",
+    "county": "Madison",
+    "pop": 3147
+  },
+  {
+    "zip": 47383,
+    "city": "Selma",
+    "county": "Delaware",
+    "pop": 3133
+  },
+  {
+    "zip": 47032,
+    "city": "Moores Hill",
+    "county": "Dearborn",
+    "pop": 3116
+  },
+  {
+    "zip": 46929,
+    "city": "Flora",
+    "county": "Carroll",
+    "pop": 3088
+  },
+  {
+    "zip": 46772,
+    "city": "Monroe",
+    "county": "Adams",
+    "pop": 3087
+  },
+  {
+    "zip": 47868,
+    "city": "Poland",
+    "county": "Clay",
+    "pop": 3072
+  },
+  {
+    "zip": 47143,
+    "city": "Memphis",
+    "county": "Clark",
+    "pop": 3063
+  },
+  {
+    "zip": 47598,
+    "city": "Winslow",
+    "county": "Pike",
+    "pop": 3058
+  },
+  {
+    "zip": 46770,
+    "city": "Markle",
+    "county": "Huntington",
+    "pop": 3057
+  },
+  {
+    "zip": 46932,
+    "city": "Galveston",
+    "county": "Cass",
+    "pop": 3057
+  },
+  {
+    "zip": 47115,
+    "city": "Depauw",
+    "county": "Harrison",
+    "pop": 3025
+  },
+  {
+    "zip": 47359,
+    "city": "Montpelier",
+    "county": "Blackford",
+    "pop": 3013
+  },
+  {
+    "zip": 47340,
+    "city": "Farmland",
+    "county": "Randolph",
+    "pop": 2998
+  },
+  {
+    "zip": 47022,
+    "city": "Guilford",
+    "county": "Dearborn",
+    "pop": 2980
+  },
+  {
+    "zip": 46030,
+    "city": "Arcadia",
+    "county": "Hamilton",
+    "pop": 2978
+  },
+  {
+    "zip": 47952,
+    "city": "Kingman",
+    "county": "Fountain",
+    "pop": 2941
+  },
+  {
+    "zip": 46938,
+    "city": "Jonesboro",
+    "county": "Grant",
+    "pop": 2928
+  },
+  {
+    "zip": 47959,
+    "city": "Monon",
+    "county": "White",
+    "pop": 2906
+  },
+  {
+    "zip": 46068,
+    "city": "Sharpsville",
+    "county": "Tipton",
+    "pop": 2872
+  },
+  {
+    "zip": 47368,
+    "city": "Parker City",
+    "county": "Randolph",
+    "pop": 2831
+  },
+  {
+    "zip": 46051,
+    "city": "Lapel",
+    "county": "Madison",
+    "pop": 2817
+  },
+  {
+    "zip": 46994,
+    "city": "Walton",
+    "county": "Cass",
+    "pop": 2815
+  },
+  {
+    "zip": 46539,
+    "city": "Mentone",
+    "county": "Kosciusko",
+    "pop": 2802
+  },
+  {
+    "zip": 47338,
+    "city": "Eaton",
+    "county": "Delaware",
+    "pop": 2789
+  },
+  {
+    "zip": 47520,
+    "city": "Cannelton",
+    "county": "Perry",
+    "pop": 2786
+  },
+  {
+    "zip": 47355,
+    "city": "Lynn",
+    "county": "Randolph",
+    "pop": 2752
+  },
+  {
+    "zip": 47471,
+    "city": "Worthington",
+    "county": "Greene",
+    "pop": 2746
+  },
+  {
+    "zip": 46130,
+    "city": "Fountaintown",
+    "county": "Shelby",
+    "pop": 2669
+  },
+  {
+    "zip": 46982,
+    "city": "Silver Lake",
+    "county": "Kosciusko",
+    "pop": 2660
+  },
+  {
+    "zip": 46940,
+    "city": "La Fontaine",
+    "county": "Wabash",
+    "pop": 2658
+  },
+  {
+    "zip": 47579,
+    "city": "Santa Claus",
+    "county": "Spencer",
+    "pop": 2636
+  },
+  {
+    "zip": 46161,
+    "city": "Morristown",
+    "county": "Shelby",
+    "pop": 2569
+  },
+  {
+    "zip": 46172,
+    "city": "Roachdale",
+    "county": "Putnam",
+    "pop": 2562
+  },
+  {
+    "zip": 47140,
+    "city": "Marengo",
+    "county": "Crawford",
+    "pop": 2559
+  },
+  {
+    "zip": 47342,
+    "city": "Gaston",
+    "county": "Delaware",
+    "pop": 2558
+  },
+  {
+    "zip": 46031,
+    "city": "Atlanta",
+    "county": "Hamilton",
+    "pop": 2546
+  },
+  {
+    "zip": 46058,
+    "city": "Mulberry",
+    "county": "Clinton",
+    "pop": 2516
+  },
+  {
+    "zip": 47809,
+    "city": "Terre Haute",
+    "county": "Vigo",
+    "pop": 2516
+  },
+  {
+    "zip": 47954,
+    "city": "Ladoga",
+    "county": "Montgomery",
+    "pop": 2433
+  },
+  {
+    "zip": 46919,
+    "city": "Converse",
+    "county": "Miami",
+    "pop": 2407
+  },
+  {
+    "zip": 46555,
+    "city": "North Webster",
+    "county": "Kosciusko",
+    "pop": 2406
+  },
+  {
+    "zip": 47373,
+    "city": "Redkey",
+    "county": "Jay",
+    "pop": 2404
+  },
+  {
+    "zip": 47633,
+    "city": "Poseyville",
+    "county": "Posey",
+    "pop": 2384
+  },
+  {
+    "zip": 47341,
+    "city": "Fountain City",
+    "county": "Wayne",
+    "pop": 2382
+  },
+  {
+    "zip": 47634,
+    "city": "Richland",
+    "county": "Spencer",
+    "pop": 2358
+  },
+  {
+    "zip": 47108,
+    "city": "Campbellsburg",
+    "county": "Washington",
+    "pop": 2352
+  },
+  {
+    "zip": 46070,
+    "city": "Summitville",
+    "county": "Madison",
+    "pop": 2336
+  },
+  {
+    "zip": 46216,
+    "city": "Indianapolis",
+    "county": "Marion",
+    "pop": 2324
+  },
+  {
+    "zip": 47977,
+    "city": "Remington",
+    "county": "Jasper",
+    "pop": 2322
+  },
+  {
+    "zip": 47841,
+    "city": "Clay City",
+    "county": "Clay",
+    "pop": 2305
+  },
+  {
+    "zip": 47227,
+    "city": "Commiskey",
+    "county": "Jennings",
+    "pop": 2299
+  },
+  {
+    "zip": 46747,
+    "city": "Hudson",
+    "county": "Steuben",
+    "pop": 2292
+  },
+  {
+    "zip": 47920,
+    "city": "Battle Ground",
+    "county": "Tippecanoe",
+    "pop": 2260
+  },
+  {
+    "zip": 47850,
+    "city": "Farmersburg",
+    "county": "Sullivan",
+    "pop": 2239
+  },
+  {
+    "zip": 46056,
+    "city": "Markleville",
+    "county": "Madison",
+    "pop": 2238
+  },
+  {
+    "zip": 47513,
+    "city": "Birdseye",
+    "county": "Dubois",
+    "pop": 2222
+  },
+  {
+    "zip": 47631,
+    "city": "New Harmony",
+    "county": "Posey",
+    "pop": 2217
+  },
+  {
+    "zip": 47273,
+    "city": "Scipio",
+    "county": "Jennings",
+    "pop": 2210
+  },
+  {
+    "zip": 47326,
+    "city": "Bryant",
+    "county": "Jay",
+    "pop": 2195
+  },
+  {
+    "zip": 47272,
+    "city": "Saint Paul",
+    "county": "Decatur",
+    "pop": 2185
+  },
+  {
+    "zip": 47946,
+    "city": "Francesville",
+    "county": "Pulaski",
+    "pop": 2170
+  },
+  {
+    "zip": 47951,
+    "city": "Kentland",
+    "county": "Newton",
+    "pop": 2168
+  },
+  {
+    "zip": 46166,
+    "city": "Paragon",
+    "county": "Morgan",
+    "pop": 2167
+  },
+  {
+    "zip": 46784,
+    "city": "Rome City",
+    "county": "Noble",
+    "pop": 2159
+  },
+  {
+    "zip": 46149,
+    "city": "Lizton",
+    "county": "Hendricks",
+    "pop": 2153
+  },
+  {
+    "zip": 46745,
+    "city": "Hoagland",
+    "county": "Allen",
+    "pop": 2146
+  },
+  {
+    "zip": 46779,
+    "city": "Pleasant Lake",
+    "county": "Steuben",
+    "pop": 2144
+  },
+  {
+    "zip": 46978,
+    "city": "Royal Center",
+    "county": "Cass",
+    "pop": 2135
+  },
+  {
+    "zip": 46050,
+    "city": "Kirklin",
+    "county": "Clinton",
+    "pop": 2127
+  },
+  {
+    "zip": 46524,
+    "city": "Etna Green",
+    "county": "Kosciusko",
+    "pop": 2124
+  },
+  {
+    "zip": 46048,
+    "city": "Ingalls",
+    "county": "Madison",
+    "pop": 2117
+  },
+  {
+    "zip": 46974,
+    "city": "Roann",
+    "county": "Wabash",
+    "pop": 2079
+  },
+  {
+    "zip": 46702,
+    "city": "Andrews",
+    "county": "Huntington",
+    "pop": 2074
+  },
+  {
+    "zip": 47963,
+    "city": "Morocco",
+    "county": "Newton",
+    "pop": 2057
+  },
+  {
+    "zip": 46743,
+    "city": "Harlan",
+    "county": "Allen",
+    "pop": 2050
+  },
+  {
+    "zip": 47384,
+    "city": "Shirley",
+    "county": "Henry",
+    "pop": 2044
+  },
+  {
+    "zip": 47030,
+    "city": "Metamora",
+    "county": "Franklin",
+    "pop": 2038
+  },
+  {
+    "zip": 47928,
+    "city": "Cayuga",
+    "county": "Vermillion",
+    "pop": 2036
+  },
+  {
+    "zip": 46115,
+    "city": "Carthage",
+    "county": "Rush",
+    "pop": 1967
+  },
+  {
+    "zip": 47990,
+    "city": "Waynetown",
+    "county": "Montgomery",
+    "pop": 1964
+  },
+  {
+    "zip": 47971,
+    "city": "Oxford",
+    "county": "Benton",
+    "pop": 1957
+  },
+  {
+    "zip": 47527,
+    "city": "Dubois",
+    "county": "Dubois",
+    "pop": 1935
+  },
+  {
+    "zip": 47145,
+    "city": "Milltown",
+    "county": "Crawford",
+    "pop": 1913
+  },
+  {
+    "zip": 47957,
+    "city": "Medaryville",
+    "county": "Pulaski",
+    "pop": 1908
+  },
+  {
+    "zip": 46763,
+    "city": "Laotto",
+    "county": "Noble",
+    "pop": 1881
+  },
+  {
+    "zip": 46951,
+    "city": "Macy",
+    "county": "Miami",
+    "pop": 1874
+  },
+  {
+    "zip": 47615,
+    "city": "Grandview",
+    "county": "Spencer",
+    "pop": 1832
+  },
+  {
+    "zip": 47840,
+    "city": "Centerpoint",
+    "county": "Clay",
+    "pop": 1831
+  },
+  {
+    "zip": 47469,
+    "city": "West Baden Springs",
+    "county": "Orange",
+    "pop": 1828
+  },
+  {
+    "zip": 47393,
+    "city": "Williamsburg",
+    "county": "Wayne",
+    "pop": 1825
+  },
+  {
+    "zip": 46128,
+    "city": "Fillmore",
+    "county": "Putnam",
+    "pop": 1824
+  },
+  {
+    "zip": 46939,
+    "city": "Kewanna",
+    "county": "Fulton",
+    "pop": 1819
+  },
+  {
+    "zip": 47666,
+    "city": "Patoka",
+    "county": "Gibson",
+    "pop": 1813
+  },
+  {
+    "zip": 46105,
+    "city": "Bainbridge",
+    "county": "Putnam",
+    "pop": 1794
+  },
+  {
+    "zip": 46917,
+    "city": "Camden",
+    "county": "Carroll",
+    "pop": 1781
+  },
+  {
+    "zip": 47970,
+    "city": "Otterbein",
+    "county": "Benton",
+    "pop": 1779
+  },
+  {
+    "zip": 46171,
+    "city": "Reelsville",
+    "county": "Putnam",
+    "pop": 1762
+  },
+  {
+    "zip": 47619,
+    "city": "Lynnville",
+    "county": "Warrick",
+    "pop": 1753
+  },
+  {
+    "zip": 47940,
+    "city": "Darlington",
+    "county": "Montgomery",
+    "pop": 1739
+  },
+  {
+    "zip": 46914,
+    "city": "Bunker Hill",
+    "county": "Miami",
+    "pop": 1729
+  },
+  {
+    "zip": 47038,
+    "city": "Patriot",
+    "county": "Switzerland",
+    "pop": 1716
+  },
+  {
+    "zip": 46776,
+    "city": "Orland",
+    "county": "Steuben",
+    "pop": 1715
+  },
+  {
+    "zip": 46382,
+    "city": "Union Mills",
+    "county": "La Porte",
+    "pop": 1713
+  },
+  {
+    "zip": 46794,
+    "city": "Wawaka",
+    "county": "Noble",
+    "pop": 1709
+  },
+  {
+    "zip": 47260,
+    "city": "Medora",
+    "county": "Jackson",
+    "pop": 1705
+  },
+  {
+    "zip": 46785,
+    "city": "Saint Joe",
+    "county": "De Kalb",
+    "pop": 1686
+  },
+  {
+    "zip": 46986,
+    "city": "Swayzee",
+    "county": "Grant",
+    "pop": 1683
+  },
+  {
+    "zip": 46705,
+    "city": "Ashley",
+    "county": "De Kalb",
+    "pop": 1682
+  },
+  {
+    "zip": 47995,
+    "city": "Wolcott",
+    "county": "White",
+    "pop": 1670
+  },
+  {
+    "zip": 47023,
+    "city": "Holton",
+    "county": "Ripley",
+    "pop": 1665
+  },
+  {
+    "zip": 46186,
+    "city": "Wilkinson",
+    "county": "Hancock",
+    "pop": 1652
+  },
+  {
+    "zip": 47561,
+    "city": "Oaktown",
+    "county": "Knox",
+    "pop": 1650
+  },
+  {
+    "zip": 47848,
+    "city": "Dugger",
+    "county": "Sullivan",
+    "pop": 1616
+  },
+  {
+    "zip": 46991,
+    "city": "Van Buren",
+    "county": "Grant",
+    "pop": 1614
+  },
+  {
+    "zip": 47557,
+    "city": "Monroe City",
+    "county": "Knox",
+    "pop": 1586
+  },
+  {
+    "zip": 47431,
+    "city": "Freedom",
+    "county": "Owen",
+    "pop": 1584
+  },
+  {
+    "zip": 47470,
+    "city": "Williams",
+    "county": "Lawrence",
+    "pop": 1580
+  },
+  {
+    "zip": 46531,
+    "city": "Grovertown",
+    "county": "Starke",
+    "pop": 1579
+  },
+  {
+    "zip": 47922,
+    "city": "Brook",
+    "county": "Newton",
+    "pop": 1570
+  },
+  {
+    "zip": 47514,
+    "city": "Branchville",
+    "county": "Perry",
+    "pop": 1556
+  },
+  {
+    "zip": 47125,
+    "city": "Hardinsburg",
+    "county": "Washington",
+    "pop": 1554
+  },
+  {
+    "zip": 47141,
+    "city": "Marysville",
+    "county": "Clark",
+    "pop": 1542
+  },
+  {
+    "zip": 46532,
+    "city": "Hamlet",
+    "county": "Starke",
+    "pop": 1531
+  },
+  {
+    "zip": 46182,
+    "city": "Waldron",
+    "county": "Shelby",
+    "pop": 1526
+  },
+  {
+    "zip": 46165,
+    "city": "North Salem",
+    "county": "Hendricks",
+    "pop": 1522
+  },
+  {
+    "zip": 47166,
+    "city": "Ramsey",
+    "county": "Harrison",
+    "pop": 1515
+  },
+  {
+    "zip": 46798,
+    "city": "Yoder",
+    "county": "Allen",
+    "pop": 1515
+  },
+  {
+    "zip": 47468,
+    "city": "Unionville",
+    "county": "Monroe",
+    "pop": 1510
+  },
+  {
+    "zip": 47137,
+    "city": "Leavenworth",
+    "county": "Crawford",
+    "pop": 1499
+  },
+  {
+    "zip": 47649,
+    "city": "Francisco",
+    "county": "Gibson",
+    "pop": 1499
+  },
+  {
+    "zip": 47611,
+    "city": "Chrisney",
+    "county": "Spencer",
+    "pop": 1489
+  },
+  {
+    "zip": 47235,
+    "city": "Freetown",
+    "county": "Jackson",
+    "pop": 1488
+  },
+  {
+    "zip": 47948,
+    "city": "Goodland",
+    "county": "Newton",
+    "pop": 1485
+  },
+  {
+    "zip": 46911,
+    "city": "Amboy",
+    "county": "Miami",
+    "pop": 1483
+  },
+  {
+    "zip": 47926,
+    "city": "Burnettsville",
+    "county": "White",
+    "pop": 1480
+  },
+  {
+    "zip": 47380,
+    "city": "Ridgeville",
+    "county": "Randolph",
+    "pop": 1476
+  },
+  {
+    "zip": 47234,
+    "city": "Flat Rock",
+    "county": "Shelby",
+    "pop": 1457
+  },
+  {
+    "zip": 46076,
+    "city": "Windfall",
+    "county": "Tipton",
+    "pop": 1440
+  },
+  {
+    "zip": 47230,
+    "city": "Deputy",
+    "county": "Jefferson",
+    "pop": 1439
+  },
+  {
+    "zip": 46985,
+    "city": "Star City",
+    "county": "Pulaski",
+    "pop": 1438
+  },
+  {
+    "zip": 47020,
+    "city": "Florence",
+    "county": "Switzerland",
+    "pop": 1432
+  },
+  {
+    "zip": 47989,
+    "city": "Waveland",
+    "county": "Montgomery",
+    "pop": 1430
+  },
+  {
+    "zip": 47345,
+    "city": "Greens Fork",
+    "county": "Wayne",
+    "pop": 1406
+  },
+  {
+    "zip": 47941,
+    "city": "Dayton",
+    "county": "Tippecanoe",
+    "pop": 1405
+  },
+  {
+    "zip": 47862,
+    "city": "Montezuma",
+    "county": "Parke",
+    "pop": 1390
+  },
+  {
+    "zip": 46764,
+    "city": "Larwill",
+    "county": "Whitley",
+    "pop": 1385
+  },
+  {
+    "zip": 46760,
+    "city": "Kimmell",
+    "county": "Noble",
+    "pop": 1381
+  },
+  {
+    "zip": 47436,
+    "city": "Heltonville",
+    "county": "Lawrence",
+    "pop": 1379
+  },
+  {
+    "zip": 47992,
+    "city": "Westpoint",
+    "county": "Tippecanoe",
+    "pop": 1357
+  },
+  {
+    "zip": 47456,
+    "city": "Quincy",
+    "county": "Owen",
+    "pop": 1352
+  },
+  {
+    "zip": 47369,
+    "city": "Pennville",
+    "county": "Jay",
+    "pop": 1320
+  },
+  {
+    "zip": 47930,
+    "city": "Clarks Hill",
+    "county": "Tippecanoe",
+    "pop": 1294
+  },
+  {
+    "zip": 47637,
+    "city": "Tennyson",
+    "county": "Warrick",
+    "pop": 1294
+  },
+  {
+    "zip": 46926,
+    "city": "Denver",
+    "county": "Miami",
+    "pop": 1293
+  },
+  {
+    "zip": 47385,
+    "city": "Spiceland",
+    "county": "Henry",
+    "pop": 1277
+  },
+  {
+    "zip": 47443,
+    "city": "Lyons",
+    "county": "Greene",
+    "pop": 1275
+  },
+  {
+    "zip": 47147,
+    "city": "Nabb",
+    "county": "Clark",
+    "pop": 1273
+  },
+  {
+    "zip": 46057,
+    "city": "Michigantown",
+    "county": "Clinton",
+    "pop": 1269
+  },
+  {
+    "zip": 47360,
+    "city": "Mooreland",
+    "county": "Henry",
+    "pop": 1259
+  },
+  {
+    "zip": 46156,
+    "city": "Milroy",
+    "county": "Rush",
+    "pop": 1253
+  },
+  {
+    "zip": 47177,
+    "city": "Underwood",
+    "county": "Clark",
+    "pop": 1241
+  },
+  {
+    "zip": 47281,
+    "city": "Vallonia",
+    "county": "Jackson",
+    "pop": 1237
+  },
+  {
+    "zip": 46035,
+    "city": "Colfax",
+    "county": "Clinton",
+    "pop": 1229
+  },
+  {
+    "zip": 47564,
+    "city": "Otwell",
+    "county": "Pike",
+    "pop": 1224
+  },
+  {
+    "zip": 47577,
+    "city": "Saint Meinrad",
+    "county": "Spencer",
+    "pop": 1211
+  },
+  {
+    "zip": 47163,
+    "city": "Otisco",
+    "county": "Clark",
+    "pop": 1210
+  },
+  {
+    "zip": 47949,
+    "city": "Hillsboro",
+    "county": "Fountain",
+    "pop": 1209
+  },
+  {
+    "zip": 46346,
+    "city": "Kingsford Heights",
+    "county": "La Porte",
+    "pop": 1208
+  },
+  {
+    "zip": 47386,
+    "city": "Springport",
+    "county": "Henry",
+    "pop": 1206
+  },
+  {
+    "zip": 47264,
+    "city": "Norman",
+    "county": "Jackson",
+    "pop": 1197
+  },
+  {
+    "zip": 47541,
+    "city": "Holland",
+    "county": "Dubois",
+    "pop": 1196
+  },
+  {
+    "zip": 47847,
+    "city": "Dana",
+    "county": "Vermillion",
+    "pop": 1187
+  },
+  {
+    "zip": 47974,
+    "city": "Perrysville",
+    "county": "Vermillion",
+    "pop": 1176
+  },
+  {
+    "zip": 47529,
+    "city": "Elnora",
+    "county": "Daviess",
+    "pop": 1173
+  },
+  {
+    "zip": 46150,
+    "city": "Manilla",
+    "county": "Rush",
+    "pop": 1147
+  },
+  {
+    "zip": 47921,
+    "city": "Boswell",
+    "county": "Benton",
+    "pop": 1140
+  },
+  {
+    "zip": 47981,
+    "city": "Romney",
+    "county": "Tippecanoe",
+    "pop": 1130
+  },
+  {
+    "zip": 47451,
+    "city": "Oolitic",
+    "county": "Lawrence",
+    "pop": 1111
+  },
+  {
+    "zip": 46920,
+    "city": "Cutler",
+    "county": "Carroll",
+    "pop": 1103
+  },
+  {
+    "zip": 47516,
+    "city": "Bruceville",
+    "county": "Knox",
+    "pop": 1100
+  },
+  {
+    "zip": 47640,
+    "city": "Hazleton",
+    "county": "Gibson",
+    "pop": 1099
+  },
+  {
+    "zip": 47943,
+    "city": "Fair Oaks",
+    "county": "Jasper",
+    "pop": 1096
+  },
+  {
+    "zip": 46049,
+    "city": "Kempton",
+    "county": "Tipton",
+    "pop": 1082
+  },
+  {
+    "zip": 47354,
+    "city": "Losantville",
+    "county": "Randolph",
+    "pop": 1075
+  },
+  {
+    "zip": 46960,
+    "city": "Monterey",
+    "county": "Pulaski",
+    "pop": 1062
+  },
+  {
+    "zip": 47358,
+    "city": "Modoc",
+    "county": "Randolph",
+    "pop": 1060
+  },
+  {
+    "zip": 47832,
+    "city": "Bloomingdale",
+    "county": "Parke",
+    "pop": 1059
+  },
+  {
+    "zip": 47142,
+    "city": "Mauckport",
+    "county": "Harrison",
+    "pop": 1049
+  },
+  {
+    "zip": 46913,
+    "city": "Bringhurst",
+    "county": "Carroll",
+    "pop": 1048
+  },
+  {
+    "zip": 46730,
+    "city": "Corunna",
+    "county": "De Kalb",
+    "pop": 1039
+  },
+  {
+    "zip": 47175,
+    "city": "Taswell",
+    "county": "Crawford",
+    "pop": 1033
+  },
+  {
+    "zip": 46348,
+    "city": "La Crosse",
+    "county": "La Porte",
+    "pop": 1031
+  },
+  {
+    "zip": 47968,
+    "city": "New Ross",
+    "county": "Montgomery",
+    "pop": 1030
+  },
+  {
+    "zip": 47859,
+    "city": "Marshall",
+    "county": "Parke",
+    "pop": 1027
+  },
+  {
+    "zip": 47223,
+    "city": "Butlerville",
+    "county": "Jennings",
+    "pop": 1024
+  },
+  {
+    "zip": 47955,
+    "city": "Linden",
+    "county": "Montgomery",
+    "pop": 1016
+  },
+  {
+    "zip": 47837,
+    "city": "Carbon",
+    "county": "Clay",
+    "pop": 1008
+  },
+  {
+    "zip": 47980,
+    "city": "Reynolds",
+    "county": "White",
+    "pop": 1005
+  },
+  {
+    "zip": 47280,
+    "city": "Taylorsville",
+    "county": "Bartholomew",
+    "pop": 979
+  },
+  {
+    "zip": 46180,
+    "city": "Stilesville",
+    "county": "Hendricks",
+    "pop": 976
+  },
+  {
+    "zip": 47991,
+    "city": "West Lebanon",
+    "county": "Warren",
+    "pop": 975
+  },
+  {
+    "zip": 46941,
+    "city": "Lagro",
+    "county": "Wabash",
+    "pop": 970
+  },
+  {
+    "zip": 46988,
+    "city": "Twelve Mile",
+    "county": "Cass",
+    "pop": 967
+  },
+  {
+    "zip": 47575,
+    "city": "Saint Anthony",
+    "county": "Dubois",
+    "pop": 955
+  },
+  {
+    "zip": 47531,
+    "city": "Evanston",
+    "county": "Spencer",
+    "pop": 945
+  },
+  {
+    "zip": 47135,
+    "city": "Laconia",
+    "county": "Harrison",
+    "pop": 938
+  },
+  {
+    "zip": 47950,
+    "city": "Idaville",
+    "county": "White",
+    "pop": 921
+  },
+  {
+    "zip": 47551,
+    "city": "Leopold",
+    "county": "Perry",
+    "pop": 914
+  },
+  {
+    "zip": 46104,
+    "city": "Arlington",
+    "county": "Rush",
+    "pop": 910
+  },
+  {
+    "zip": 47597,
+    "city": "Wheatland",
+    "county": "Knox",
+    "pop": 904
+  },
+  {
+    "zip": 47537,
+    "city": "Gentryville",
+    "county": "Spencer",
+    "pop": 896
+  },
+  {
+    "zip": 47003,
+    "city": "West College Corner",
+    "county": "Union",
+    "pop": 890
+  },
+  {
+    "zip": 46987,
+    "city": "Sweetser",
+    "county": "Grant",
+    "pop": 884
+  },
+  {
+    "zip": 47036,
+    "city": "Oldenburg",
+    "county": "Franklin",
+    "pop": 882
+  },
+  {
+    "zip": 47515,
+    "city": "Bristow",
+    "county": "Perry",
+    "pop": 880
+  },
+  {
+    "zip": 46374,
+    "city": "San Pierre",
+    "county": "Starke",
+    "pop": 873
+  },
+  {
+    "zip": 46791,
+    "city": "Uniondale",
+    "county": "Wells",
+    "pop": 865
+  },
+  {
+    "zip": 47352,
+    "city": "Lewisville",
+    "county": "Henry",
+    "pop": 860
+  },
+  {
+    "zip": 47231,
+    "city": "Dupont",
+    "county": "Jefferson",
+    "pop": 858
+  },
+  {
+    "zip": 47519,
+    "city": "Cannelburg",
+    "county": "Daviess",
+    "pop": 847
+  },
+  {
+    "zip": 46959,
+    "city": "Miami",
+    "county": "Miami",
+    "pop": 838
+  },
+  {
+    "zip": 46570,
+    "city": "Tippecanoe",
+    "county": "Marshall",
+    "pop": 833
+  },
+  {
+    "zip": 46133,
+    "city": "Glenwood",
+    "county": "Fayette",
+    "pop": 833
+  },
+  {
+    "zip": 47568,
+    "city": "Plainville",
+    "county": "Daviess",
+    "pop": 829
+  },
+  {
+    "zip": 46117,
+    "city": "Charlottesville",
+    "county": "Hancock",
+    "pop": 828
+  },
+  {
+    "zip": 47357,
+    "city": "Milton",
+    "county": "Wayne",
+    "pop": 822
+  },
+  {
+    "zip": 47162,
+    "city": "New Washington",
+    "county": "Clark",
+    "pop": 801
+  },
+  {
+    "zip": 47585,
+    "city": "Stendal",
+    "county": "Pike",
+    "pop": 800
+  },
+  {
+    "zip": 47016,
+    "city": "Cedar Grove",
+    "county": "Franklin",
+    "pop": 796
+  },
+  {
+    "zip": 47011,
+    "city": "Bennington",
+    "county": "Switzerland",
+    "pop": 788
+  },
+  {
+    "zip": 47833,
+    "city": "Bowling Green",
+    "county": "Clay",
+    "pop": 761
+  },
+  {
+    "zip": 46731,
+    "city": "Craigville",
+    "county": "Wells",
+    "pop": 759
+  },
+  {
+    "zip": 47535,
+    "city": "Freelandville",
+    "county": "Knox",
+    "pop": 758
+  },
+  {
+    "zip": 46365,
+    "city": "Mill Creek",
+    "county": "La Porte",
+    "pop": 755
+  },
+  {
+    "zip": 47335,
+    "city": "Dublin",
+    "county": "Wayne",
+    "pop": 753
+  },
+  {
+    "zip": 46340,
+    "city": "Hanna",
+    "county": "La Porte",
+    "pop": 742
+  },
+  {
+    "zip": 46990,
+    "city": "Urbana",
+    "county": "Wabash",
+    "pop": 741
+  },
+  {
+    "zip": 47120,
+    "city": "Fredericksburg",
+    "county": "Washington",
+    "pop": 741
+  },
+  {
+    "zip": 46766,
+    "city": "Liberty Center",
+    "county": "Wells",
+    "pop": 737
+  },
+  {
+    "zip": 47244,
+    "city": "Hartsville",
+    "county": "Bartholomew",
+    "pop": 734
+  },
+  {
+    "zip": 47387,
+    "city": "Straughn",
+    "county": "Henry",
+    "pop": 730
+  },
+  {
+    "zip": 47942,
+    "city": "Earl Park",
+    "county": "Benton",
+    "pop": 728
+  },
+  {
+    "zip": 46781,
+    "city": "Poneto",
+    "county": "Wells",
+    "pop": 728
+  },
+  {
+    "zip": 47858,
+    "city": "Lewis",
+    "county": "Vigo",
+    "pop": 724
+  },
+  {
+    "zip": 47612,
+    "city": "Cynthiana",
+    "county": "Posey",
+    "pop": 715
+  },
+  {
+    "zip": 47578,
+    "city": "Sandborn",
+    "county": "Knox",
+    "pop": 710
+  },
+  {
+    "zip": 46915,
+    "city": "Burlington",
+    "county": "Carroll",
+    "pop": 694
+  },
+  {
+    "zip": 47521,
+    "city": "Celestine",
+    "county": "Dubois",
+    "pop": 692
+  },
+  {
+    "zip": 47453,
+    "city": "Owensburg",
+    "county": "Greene",
+    "pop": 683
+  },
+  {
+    "zip": 47116,
+    "city": "Eckerty",
+    "county": "Crawford",
+    "pop": 681
+  },
+  {
+    "zip": 47967,
+    "city": "New Richmond",
+    "county": "Montgomery",
+    "pop": 680
+  },
+  {
+    "zip": 47929,
+    "city": "Chalmers",
+    "county": "White",
+    "pop": 673
+  },
+  {
+    "zip": 47975,
+    "city": "Pine Village",
+    "county": "Warren",
+    "pop": 664
+  },
+  {
+    "zip": 47325,
+    "city": "Brownsville",
+    "county": "Union",
+    "pop": 663
+  },
+  {
+    "zip": 47861,
+    "city": "Merom",
+    "county": "Sullivan",
+    "pop": 663
+  },
+  {
+    "zip": 47427,
+    "city": "Coal City",
+    "county": "Owen",
+    "pop": 662
+  },
+  {
+    "zip": 46175,
+    "city": "Russellville",
+    "county": "Putnam",
+    "pop": 646
+  },
+  {
+    "zip": 47588,
+    "city": "Troy",
+    "county": "Spencer",
+    "pop": 615
+  },
+  {
+    "zip": 47866,
+    "city": "Pimento",
+    "county": "Vigo",
+    "pop": 613
+  },
+  {
+    "zip": 47854,
+    "city": "Hillsdale",
+    "county": "Vermillion",
+    "pop": 612
+  },
+  {
+    "zip": 47524,
+    "city": "Decker",
+    "county": "Knox",
+    "pop": 612
+  },
+  {
+    "zip": 47965,
+    "city": "New Market",
+    "county": "Montgomery",
+    "pop": 599
+  },
+  {
+    "zip": 46957,
+    "city": "Matthews",
+    "county": "Grant",
+    "pop": 592
+  },
+  {
+    "zip": 46110,
+    "city": "Boggstown",
+    "county": "Shelby",
+    "pop": 583
+  },
+  {
+    "zip": 46950,
+    "city": "Lucerne",
+    "county": "Cass",
+    "pop": 566
+  },
+  {
+    "zip": 46063,
+    "city": "Orestes",
+    "county": "Madison",
+    "pop": 565
+  },
+  {
+    "zip": 47550,
+    "city": "Lamar",
+    "county": "Spencer",
+    "pop": 561
+  },
+  {
+    "zip": 47351,
+    "city": "Kennard",
+    "county": "Henry",
+    "pop": 540
+  },
+  {
+    "zip": 47846,
+    "city": "Cory",
+    "county": "Clay",
+    "pop": 532
+  },
+  {
+    "zip": 47270,
+    "city": "Paris Crossing",
+    "county": "Jennings",
+    "pop": 530
+  },
+  {
+    "zip": 47855,
+    "city": "Hymera",
+    "county": "Sullivan",
+    "pop": 526
+  },
+  {
+    "zip": 47224,
+    "city": "Canaan",
+    "county": "Jefferson",
+    "pop": 520
+  },
+  {
+    "zip": 47465,
+    "city": "Switz City",
+    "county": "Greene",
+    "pop": 520
+  },
+  {
+    "zip": 46301,
+    "city": "Beverly Shores",
+    "county": "Porter",
+    "pop": 516
+  },
+  {
+    "zip": 46759,
+    "city": "Keystone",
+    "county": "Wells",
+    "pop": 508
+  },
+  {
+    "zip": 46039,
+    "city": "Forest",
+    "county": "Clinton",
+    "pop": 508
+  },
+  {
+    "zip": 47528,
+    "city": "Edwardsport",
+    "county": "Knox",
+    "pop": 504
+  },
+  {
+    "zip": 47849,
+    "city": "Fairbanks",
+    "county": "Sullivan",
+    "pop": 502
+  },
+  {
+    "zip": 47339,
+    "city": "Economy",
+    "county": "Wayne",
+    "pop": 497
+  },
+  {
+    "zip": 47917,
+    "city": "Ambia",
+    "county": "Benton",
+    "pop": 492
+  },
+  {
+    "zip": 47017,
+    "city": "Cross Plains",
+    "county": "Ripley",
+    "pop": 481
+  },
+  {
+    "zip": 46958,
+    "city": "Mexico",
+    "county": "Miami",
+    "pop": 458
+  },
+  {
+    "zip": 47708,
+    "city": "Evansville",
+    "county": "Vanderburgh",
+    "pop": 445
+  },
+  {
+    "zip": 47420,
+    "city": "Avoca",
+    "county": "Lawrence",
+    "pop": 439
+  },
+  {
+    "zip": 47522,
+    "city": "Crane",
+    "county": "Martin",
+    "pop": 437
+  },
+  {
+    "zip": 47860,
+    "city": "Mecca",
+    "county": "Parke",
+    "pop": 425
+  },
+  {
+    "zip": 46537,
+    "city": "Lapaz",
+    "county": "Marshall",
+    "pop": 425
+  },
+  {
+    "zip": 47857,
+    "city": "Knightsville",
+    "county": "Clay",
+    "pop": 420
+  },
+  {
+    "zip": 47110,
+    "city": "Central",
+    "county": "Harrison",
+    "pop": 417
+  },
+  {
+    "zip": 46146,
+    "city": "Homer",
+    "county": "Rush",
+    "pop": 416
+  },
+  {
+    "zip": 47590,
+    "city": "Velpen",
+    "county": "Pike",
+    "pop": 413
+  },
+  {
+    "zip": 47580,
+    "city": "Schnellville",
+    "county": "Dubois",
+    "pop": 406
+  },
+  {
+    "zip": 47449,
+    "city": "Newberry",
+    "county": "Greene",
+    "pop": 400
+  },
+  {
+    "zip": 47966,
+    "city": "Newport",
+    "county": "Vermillion",
+    "pop": 359
+  },
+  {
+    "zip": 47876,
+    "city": "Saint Mary Of The Woods",
+    "county": "Vigo",
+    "pop": 348
+  },
+  {
+    "zip": 47576,
+    "city": "Saint Croix",
+    "county": "Perry",
+    "pop": 341
+  },
+  {
+    "zip": 47388,
+    "city": "Sulphur Springs",
+    "county": "Henry",
+    "pop": 335
+  },
+  {
+    "zip": 46377,
+    "city": "Shelby",
+    "county": "Lake",
+    "pop": 332
+  },
+  {
+    "zip": 47881,
+    "city": "Staunton",
+    "county": "Clay",
+    "pop": 329
+  },
+  {
+    "zip": 47114,
+    "city": "Crandall",
+    "county": "Harrison",
+    "pop": 328
+  },
+  {
+    "zip": 47871,
+    "city": "Riley",
+    "county": "Vigo",
+    "pop": 321
+  },
+  {
+    "zip": 46162,
+    "city": "Needham",
+    "county": "Johnson",
+    "pop": 314
+  },
+  {
+    "zip": 47994,
+    "city": "Wingate",
+    "county": "Montgomery",
+    "pop": 309
+  },
+  {
+    "zip": 47983,
+    "city": "Stockwell",
+    "county": "Tippecanoe",
+    "pop": 303
+  },
+  {
+    "zip": 46393,
+    "city": "Wheeler",
+    "county": "Porter",
+    "pop": 296
+  },
+  {
+    "zip": 47863,
+    "city": "New Goshen",
+    "county": "Vigo",
+    "pop": 294
+  },
+  {
+    "zip": 47282,
+    "city": "Vernon",
+    "county": "Jennings",
+    "pop": 293
+  },
+  {
+    "zip": 46127,
+    "city": "Falmouth",
+    "county": "Rush",
+    "pop": 287
+  },
+  {
+    "zip": 47525,
+    "city": "Derby",
+    "county": "Perry",
+    "pop": 281
+  },
+  {
+    "zip": 47552,
+    "city": "Lincoln City",
+    "county": "Spencer",
+    "pop": 270
+  },
+  {
+    "zip": 47616,
+    "city": "Griffin",
+    "county": "Posey",
+    "pop": 265
+  },
+  {
+    "zip": 47226,
+    "city": "Clifford",
+    "county": "Bartholomew",
+    "pop": 260
+  },
+  {
+    "zip": 47382,
+    "city": "Saratoga",
+    "county": "Randolph",
+    "pop": 255
+  },
+  {
+    "zip": 47263,
+    "city": "New Point",
+    "county": "Decatur",
+    "pop": 255
+  },
+  {
+    "zip": 47035,
+    "city": "New Trenton",
+    "county": "Franklin",
+    "pop": 246
+  },
+  {
+    "zip": 46376,
+    "city": "Schneider",
+    "county": "Lake",
+    "pop": 243
+  },
+  {
+    "zip": 47683,
+    "city": "Somerville",
+    "county": "Gibson",
+    "pop": 235
+  },
+  {
+    "zip": 46799,
+    "city": "Zanesville",
+    "county": "Allen",
+    "pop": 227
+  },
+  {
+    "zip": 46998,
+    "city": "Young America",
+    "county": "Cass",
+    "pop": 226
+  },
+  {
+    "zip": 46943,
+    "city": "Laketon",
+    "county": "Wabash",
+    "pop": 225
+  },
+  {
+    "zip": 47010,
+    "city": "Bath",
+    "county": "Franklin",
+    "pop": 220
+  },
+  {
+    "zip": 47361,
+    "city": "Mount Summit",
+    "county": "Henry",
+    "pop": 215
+  },
+  {
+    "zip": 47574,
+    "city": "Rome",
+    "county": "Perry",
+    "pop": 213
+  },
+  {
+    "zip": 47464,
+    "city": "Stinesville",
+    "county": "Monroe",
+    "pop": 212
+  },
+  {
+    "zip": 46111,
+    "city": "Brooklyn",
+    "county": "Morgan",
+    "pop": 196
+  },
+  {
+    "zip": 47247,
+    "city": "Jonesville",
+    "county": "Bartholomew",
+    "pop": 194
+  },
+  {
+    "zip": 47457,
+    "city": "Scotland",
+    "county": "Greene",
+    "pop": 192
+  },
+  {
+    "zip": 46984,
+    "city": "Somerset",
+    "county": "Wabash",
+    "pop": 188
+  },
+  {
+    "zip": 46931,
+    "city": "Fulton",
+    "county": "Fulton",
+    "pop": 187
+  },
+  {
+    "zip": 46290,
+    "city": "Indianapolis",
+    "county": "Hamilton",
+    "pop": 187
+  },
+  {
+    "zip": 47884,
+    "city": "Universal",
+    "county": "Vermillion",
+    "pop": 185
+  },
+  {
+    "zip": 46381,
+    "city": "Thayer",
+    "county": "Newton",
+    "pop": 176
+  },
+  {
+    "zip": 47982,
+    "city": "State Line",
+    "county": "Warren",
+    "pop": 173
+  },
+  {
+    "zip": 46345,
+    "city": "Kingsbury",
+    "county": "La Porte",
+    "pop": 170
+  },
+  {
+    "zip": 46961,
+    "city": "New Waverly",
+    "county": "Cass",
+    "pop": 169
+  },
+  {
+    "zip": 47467,
+    "city": "Tunnelton",
+    "county": "Lawrence",
+    "pop": 167
+  },
+  {
+    "zip": 47924,
+    "city": "Buck Creek",
+    "county": "Tippecanoe",
+    "pop": 162
+  },
+  {
+    "zip": 46155,
+    "city": "Mays",
+    "county": "Rush",
+    "pop": 162
+  },
+  {
+    "zip": 46103,
+    "city": "Amo",
+    "county": "Hendricks",
+    "pop": 162
+  },
+  {
+    "zip": 47437,
+    "city": "Huron",
+    "county": "Lawrence",
+    "pop": 155
+  },
+  {
+    "zip": 47324,
+    "city": "Boston",
+    "county": "Wayne",
+    "pop": 149
+  },
+  {
+    "zip": 46968,
+    "city": "Ora",
+    "county": "Starke",
+    "pop": 142
+  },
+  {
+    "zip": 47958,
+    "city": "Mellott",
+    "county": "Fountain",
+    "pop": 140
+  },
+  {
+    "zip": 47584,
+    "city": "Spurgeon",
+    "county": "Pike",
+    "pop": 139
+  },
+  {
+    "zip": 47337,
+    "city": "Dunreith",
+    "county": "Henry",
+    "pop": 138
+  },
+  {
+    "zip": 47034,
+    "city": "Napoleon",
+    "county": "Ripley",
+    "pop": 135
+  },
+  {
+    "zip": 47997,
+    "city": "Yeoman",
+    "county": "Carroll",
+    "pop": 134
+  },
+  {
+    "zip": 47925,
+    "city": "Buffalo",
+    "county": "White",
+    "pop": 133
+  },
+  {
+    "zip": 46144,
+    "city": "Gwynneville",
+    "county": "Shelby",
+    "pop": 133
+  },
+  {
+    "zip": 46595,
+    "city": "Wyatt",
+    "county": "St Joseph",
+    "pop": 133
+  },
+  {
+    "zip": 46930,
+    "city": "Fowlerton",
+    "county": "Grant",
+    "pop": 126
+  },
+  {
+    "zip": 47344,
+    "city": "Greensboro",
+    "county": "Henry",
+    "pop": 124
+  },
+  {
+    "zip": 47869,
+    "city": "Prairie Creek",
+    "county": "Vigo",
+    "pop": 124
+  },
+  {
+    "zip": 47381,
+    "city": "Salamonia",
+    "county": "Jay",
+    "pop": 122
+  },
+  {
+    "zip": 47123,
+    "city": "Grantsburg",
+    "county": "Crawford",
+    "pop": 122
+  },
+  {
+    "zip": 47853,
+    "city": "Harmony",
+    "county": "Clay",
+    "pop": 121
+  },
+  {
+    "zip": 47160,
+    "city": "New Middletown",
+    "county": "Harrison",
+    "pop": 113
+  },
+  {
+    "zip": 46508,
+    "city": "Burket",
+    "county": "Kosciusko",
+    "pop": 113
+  },
+  {
+    "zip": 47964,
+    "city": "Mount Ayr",
+    "county": "Newton",
+    "pop": 110
+  },
+  {
+    "zip": 47969,
+    "city": "Newtown",
+    "county": "Fountain",
+    "pop": 109
+  },
+  {
+    "zip": 46967,
+    "city": "Onward",
+    "county": "Cass",
+    "pop": 97
+  },
+  {
+    "zip": 47654,
+    "city": "Mackey",
+    "county": "Gibson",
+    "pop": 92
+  },
+  {
+    "zip": 46379,
+    "city": "Sumava Resorts",
+    "county": "Newton",
+    "pop": 81
+  },
+  {
+    "zip": 47880,
+    "city": "Shepardsville",
+    "county": "Vigo",
+    "pop": 78
+  },
+  {
+    "zip": 47455,
+    "city": "Patricksburg",
+    "county": "Owen",
+    "pop": 76
+  },
+  {
+    "zip": 46771,
+    "city": "Mongo",
+    "county": "Lagrange",
+    "pop": 72
+  },
+  {
+    "zip": 47596,
+    "city": "Westphalia",
+    "county": "Knox",
+    "pop": 71
+  },
+  {
+    "zip": 47458,
+    "city": "Smithville",
+    "county": "Monroe",
+    "pop": 58
+  },
+  {
+    "zip": 46502,
+    "city": "Atwood",
+    "county": "Kosciusko",
+    "pop": 58
+  },
+  {
+    "zip": 47367,
+    "city": "Oakville",
+    "county": "Delaware",
+    "pop": 57
+  },
+  {
+    "zip": 46047,
+    "city": "Hobbs",
+    "county": "Tipton",
+    "pop": 56
+  },
+  {
+    "zip": 47865,
+    "city": "Paxton",
+    "county": "Sullivan",
+    "pop": 55
+  },
+  {
+    "zip": 46125,
+    "city": "Eminence",
+    "county": "Morgan",
+    "pop": 55
+  },
+  {
+    "zip": 47916,
+    "city": "Alamo",
+    "county": "Montgomery",
+    "pop": 43
+  },
+  {
+    "zip": 46786,
+    "city": "South Milford",
+    "county": "Lagrange",
+    "pop": 39
+  },
+  {
+    "zip": 46045,
+    "city": "Goldsmith",
+    "county": "Tipton",
+    "pop": 39
+  },
+  {
+    "zip": 46704,
+    "city": "Arcola",
+    "county": "Allen",
+    "pop": 38
+  },
+  {
+    "zip": 46946,
+    "city": "Liberty Mills",
+    "county": "Wabash",
+    "pop": 34
+  },
+  {
+    "zip": 46922,
+    "city": "Delong",
+    "county": "Fulton",
+    "pop": 31
+  },
+  {
+    "zip": 46183,
+    "city": "West Newton",
+    "county": "Marion",
+    "pop": 15
+  },
+  {
+    "zip": 47836,
+    "city": "Bridgeton",
+    "county": "Parke",
+    "pop": 0
+  },
+  {
+    "zip": 47907,
+    "city": "West Lafayette",
+    "county": "Tippecanoe",
+    "pop": 0
+  },
+  {
+    "zip": 47104,
+    "city": "Bethlehem",
+    "county": "Clark",
+    "pop": 0
+  },
+  {
+    "zip": 47536,
+    "city": "Fulda",
+    "county": "Spencer",
+    "pop": 0
+  },
+  {
+    "zip": 47434,
+    "city": "Harrodsburg",
+    "county": "Monroe",
+    "pop": 0
+  }
+]

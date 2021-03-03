@@ -1,0 +1,23 @@
+[
+    {
+        "continent": "Africa"
+    },
+	{
+        "continent": "Antarctica"
+    },
+	{
+        "continent": "Asia"
+    },
+	{
+        "continent": "Europe"
+    },
+	{
+        "continent": "Oceania"
+    },
+	{
+        "continent": "North America"
+    },
+	{
+        "continent": "South America"
+    }
+]
