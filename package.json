@@ -1,7 +1,7 @@
 {
-	"name": "github-template",
+	"name": "geographical-data",
 	"version": "1.0.0",
-	"description": "",
+	"description": "A collection of geographical data in JSON format for GET requests.",
 	"author": "Moraine Valley Community College",
 	"license": "MIT",
 	"keywords": [

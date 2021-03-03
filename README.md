@@ -2,13 +2,13 @@
 
 # College Data
 
-A collection of college data in JSON format for GET requests.
+A collection of geographical data in JSON format for GET requests.
 
 [Documentation](doc/toc.md)
 
 ## Example
 
-	fetch("https://raw.githubusercontent.com/mvccdev/college-data/main/api/{NAME}.json")
+	fetch("https://raw.githubusercontent.com/mvccdev/geo-data/main/api/{NAME}.json")
 		.then((resp) => {
 			resp.json().then((data) => {
 				//
@@ -57,7 +57,7 @@ Pull requests are encouraged and welcome.
 
 ## Thanks
 
-Information has been gathered from the following:
+Most information has been gathered from the following:
 
 * [Samayo](https://github.com/samayo/country-json/)
 * [World Population Review](https://worldpopulationreview.com/)
