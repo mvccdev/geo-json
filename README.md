@@ -1,6 +1,6 @@
 ![](https://img.shields.io/static/v1?label=category&message=json&color=red)
 
-# College Data
+# Geo Data
 
 A collection of geographical data in JSON format for GET requests.
 
