@@ -8,6 +8,8 @@ A collection of geographical data in JSON format for GET requests.
 
 ## Example
 
+It's not recommended to do this from the main branch. Please use a release.
+
 	fetch("https://raw.githubusercontent.com/mvccdev/geo-data/main/api/{NAME}.json")
 		.then((resp) => {
 			resp.json().then((data) => {
