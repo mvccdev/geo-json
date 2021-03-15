@@ -1,6 +1,6 @@
 ![](https://img.shields.io/static/v1?label=category&message=json&color=red)
 
-# Geo Data
+# Geo JSON
 
 A collection of geographical data in JSON format for GET requests.
 
@@ -10,7 +10,7 @@ A collection of geographical data in JSON format for GET requests.
 
 It's not recommended to do this from the main branch. Please use a release.
 
-	fetch("https://raw.githubusercontent.com/mvccdev/geo-data/main/api/{NAME}.json")
+	fetch("https://raw.githubusercontent.com/mvccdev/geo-json/main/api/{NAME}.json")
 		.then((resp) => {
 			resp.json().then((data) => {
 				//
@@ -39,7 +39,7 @@ Install the following tools to use this project in your local development enviro
 
 Follow these steps to install this project.
 
-	git clone https://github.com/geo-data/geo-data.git
+	git clone https://github.com/geo-data/geo-json.git
 	cd geo-data
 	npm install
 	npm run watch

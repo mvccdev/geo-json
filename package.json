@@ -1,5 +1,5 @@
 {
-	"name": "geographical-data",
+	"name": "geo-json",
 	"version": "1.0.0",
 	"description": "A collection of geographical data in JSON format for GET requests.",
 	"author": "Moraine Valley Community College",
