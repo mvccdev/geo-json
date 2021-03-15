@@ -18,7 +18,7 @@ It's not recommended to do this from the main branch. Please use a release.
 				//
 			}
 		});
-	})
+	});
 
 ## Skill Prerequisites
 
